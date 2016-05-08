@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('Common-2016.1.316-trial-release.aar'))

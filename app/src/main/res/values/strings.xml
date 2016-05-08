@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Easy Cart</string>
+    <string name="scan">Scan</string>
+    <string name="showItems">Show Items</string>
+    <string name="format">Format</string>
+    <string name="content">Content</string>
+    <string name="items_info">The Items in your shopping cart are</string>
+    <string name="empty_info">Your Shopping cart is Empty!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_items">showItems</string>
+    <string name="scan_me_text">Scan the Item</string>
+    <string name="show_me_items">Items in my cart</string>
+    <string name="item_added">Item added to the cart</string>
+    <string name="add_another">Add another Item</string>
+</resources>

@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('Data-2016.1.316-trial-release.aar'))
